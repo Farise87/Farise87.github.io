@@ -1,0 +1,6 @@
+http://example.com/shuoshuo/index.html
+http://example.com/link/index.html
+http://example.com/categories/index.html
+http://example.com/tags/index.html
+http://example.com/2025/04/21/hello-world/
+http://example.com/
