@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-04-21T12:07:43.805Z</updated>
+  <updated>2025-04-25T03:14:24.525Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网站初具雏形啦</title>
+    <link href="http://example.com/2025/04/25/%E7%BD%91%E7%AB%99%E5%88%9D%E5%85%B7%E9%9B%8F%E5%BD%A2%E5%95%A6/"/>
+    <id>http://example.com/2025/04/25/%E7%BD%91%E7%AB%99%E5%88%9D%E5%85%B7%E9%9B%8F%E5%BD%A2%E5%95%A6/</id>
+    <published>2025-04-25T03:05:55.000Z</published>
+    <updated>2025-04-25T03:14:24.525Z</updated>
+    
+    <content type="html"><![CDATA[<p>根据网络上的教程终于把网站装饰的差不多了，接下来还得继续学习下markdown形式怎么写？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;根据网络上的教程终于把网站装饰的差不多了，接下来还得继续学习下markdown形式怎么写？&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="随记" scheme="http://example.com/categories/%E9%9A%8F%E8%AE%B0/"/>
+    
+    
+    <category term="说说" scheme="http://example.com/tags/%E8%AF%B4%E8%AF%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
